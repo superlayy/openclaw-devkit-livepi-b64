@@ -1,0 +1,14 @@
+[
+  "tests/test_formatter.py::test_basic_format",
+  "tests/test_formatter.py::test_emoji_prefix",
+  "tests/test_formatter.py::test_format_with_scope",
+  "tests/test_formatter.py::test_no_emoji",
+  "tests/test_formatter.py::test_truncation",
+  "tests/test_formatter.py::test_validate_good_message",
+  "tests/test_formatter.py::test_validate_missing_colon",
+  "tests/test_formatter.py::test_validate_unknown_type",
+  "tests/test_metrics.py::test_analyze_function",
+  "tests/test_metrics.py::test_analyze_module",
+  "tests/test_metrics.py::test_branching_complexity",
+  "tests/test_metrics.py::test_simple_function_complexity"
+]
